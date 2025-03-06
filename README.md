@@ -3,6 +3,7 @@
 BookBot is my first [Boot.dev](https://www.boot.dev) project!
 
 ---------------------- Description ----------------------
+
 A python program that analyzes novels, prints a statistical
 report of the word and character usage found within.
 
